@@ -2,40 +2,34 @@
 
 const testimonials = [
   {
-    name: "Marcus T.",
-    location: "Houston, TX",
+    name: "Elena Miller",
+    location: "Waynesboro, MS",
     rating: 5,
-    text: "Stok America replaced our entire roof after a hailstorm and handled the insurance claim from start to finish. Couldn't have asked for a smoother process. The crew was professional, fast, and left the yard cleaner than they found it.",
+    text: "StokAmerica did a great job on our roof!! After coming out and looking over the damage, they immediately gave us an estimate later that evening. In less than a week of giving us the estimate, the crew came out and had our roof fixed for us! They also had a nice group of guys helping out! They even spent some time playing with my son in the yard and he loved every minute of it! Highly recommend StokAmerica for any of your roofing needs!! Thanks again for your great service! ☺️",
   },
   {
-    name: "Jennifer R.",
-    location: "San Antonio, TX",
+    name: "Beverly Paul-Cooper",
+    location: "Waynesboro, MS",
     rating: 5,
-    text: "I had three other contractors ghost me after the storm. Stok America showed up on time, gave me a straight quote, and had my roof done in two days. Outstanding quality and great communication the whole time.",
+    text: "Today we got a beautiful new roof courtesy of StokAmerica. They were super professional, diligent, and even took the time to explain the different aspects of our roof. Jaymin, one of the owners, has been wonderful to work along side and even spoke with our insurance company on the phone after noticing a considerable amount of hail damage. Their price point was flexible, honest, and it was an all around easy experience to go through. We have used them multiple times and plan to use them for all our roofing needs. We HIGHlY recommend this company. You won't be disappointed.",
   },
   {
-    name: "Carlos M.",
-    location: "Dallas, TX",
+    name: "Becky Pierce Shoemaker",
+    location: "Waynesboro, MS",
     rating: 5,
-    text: "They worked directly with my insurance company and got us a full replacement approved. The workmanship is excellent — my roof looks brand new. Highly recommend Stok America to anyone dealing with storm damage.",
+    text: "Had these guys redo my shingles and not only did they do a great job but the price was great! Very nice people to work with.. definitely recommend!!",
   },
   {
-    name: "Lisa W.",
-    location: "Austin, TX",
+    name: "Delane Brewer",
+    location: "Waynesboro, MS",
     rating: 5,
-    text: "From the initial inspection to the final walkthrough, everything was professional and transparent. They even found damage my insurance adjuster missed. Got us more coverage. These guys are in your corner.",
+    text: "Fast and courteous. I definitely recommend StokAmerica for all your roofing needs!!!",
   },
   {
-    name: "David K.",
-    location: "Katy, TX",
+    name: "Tia White",
+    location: "Waynesboro, MS",
     rating: 5,
-    text: "Best roofing experience I've ever had. Fair pricing, lifetime workmanship warranty, and they use top-tier materials. My neighbors are already asking for their number.",
-  },
-  {
-    name: "Sandra B.",
-    location: "Pearland, TX",
-    rating: 5,
-    text: "Stok America did our commercial building and three of our employees' homes. Every single job was done right. This is a company you can trust with your biggest investment.",
+    text: "Me and my sister both used StokAmerica for our recent roofing needs. The service was great! They completed the work in ONE day. I definitely recommend them for all your roofing needs.",
   },
 ];
 
