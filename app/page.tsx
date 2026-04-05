@@ -19,9 +19,9 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Stats />
+      <Testimonials />
       <Gallery />
       <VideoSection />
-      <Testimonials />
       <Services />
       <InsuranceClaims />
       <Warranty />
