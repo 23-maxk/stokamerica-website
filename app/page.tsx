@@ -2,6 +2,7 @@ import Navbar from "@/components/Navbar"
 import Hero from "@/components/Hero"
 import Stats from "@/components/Stats"
 import Gallery from "@/components/Gallery"
+import VideoSection from "@/components/VideoSection"
 import Testimonials from "@/components/Testimonials"
 import Services from "@/components/Services"
 import InsuranceClaims from "@/components/InsuranceClaims"
@@ -19,6 +20,7 @@ export default function Home() {
       <Hero />
       <Stats />
       <Gallery />
+      <VideoSection />
       <Testimonials />
       <Services />
       <InsuranceClaims />
