@@ -37,6 +37,24 @@ const testimonials = [
     rating: 5,
     text: "StokAmerica was fantastic! Exceeded all my expectations at a reasonable cost. Highly recommended. Not the lowest or highest estimate I got, but they had great reviews. I had read and heard lots of horror stories about roofing jobs gone bad so I wanted a reliable company and StokAmerica did not disappoint.\n\nMy existing roof was a second layer put on over 25 years ago and it was starting to show its age. The underlying plywood was soft in many spots and there were some small leaks in the garage during heavy rainstorms.\n\nWhen Lane came by to check out the roof we had a long talk about what needed to be done and how much it would cost. The price he quoted was not the lowest bid but still reasonable and I was more concerned about workmanship than saving a few dollars. There was no hard sell and I really had a good feeling about StokAmerica. One thing that really impressed me was that Lane did not ask for any money up front even though he had to cover the cost of the materials. He trusted me to pay the entire cost when the job was done, which I did.\n\nThe crew arrived exactly on time, 7:30 AM. A crew of 6 men were able to finish the job in one day (almost 12 hours) and Lane was there supervising for almost the entire time. The first thing they did was drape a fine net around the entire house to protect everything on the ground. The cleanup was perfect — they swept the entire grounds with large magnets to pick up any stray nails.\n\nA perfect job; can't ask for more than that and I will certainly recommend StokAmerica to anyone who needs a new roof. Thank you Lane and crew for an outstanding job.",
   },
+  {
+    name: "Austin Pickens",
+    location: "Waynesboro, MS",
+    rating: 5,
+    text: "Lane came out himself and did an inspection/quote for me, and gave me great service. Didn't try to force me into any decisions and heard me out and gave me multiple options to choose from.",
+  },
+  {
+    name: "Karen Williams Cochran",
+    location: "Waynesboro, MS",
+    rating: 5,
+    text: "Outstanding Service and Superior Workmanship from Start to Finish!\n\nI recently had a full roof replacement by StokAmerica, and I couldn't be happier with the entire experience. From the initial consultation to the final inspection, they were exceptional in every aspect.\n\nProfessionalism & Communication: Lane Stokley was incredibly knowledgeable. He provided a detailed, itemized quote and clearly explained all our options for materials and warranties without any sales pressure. Communication was prompt and thorough throughout the entire process.\n\nQuality Workmanship: The crew worked tirelessly. They paid meticulous attention to detail, ensuring proper installation of the new architectural shingles, underlayment, and ridge vents. The final product looks fantastic and gives me peace of mind heading into storm season.\n\nEfficiency & Cleanup: I was bracing for a messy job, but the team was a stickler for cleanliness. They carefully protected my landscaping and thoroughly cleaned up all debris, even using a magnet to pick up stray nails from the yard. You wouldn't even know major construction had just happened.\n\nValue: While they were not the absolute cheapest quote I received, the value provided in terms of quality materials, warranty, and professionalism was unbeatable. I truly feel I made the right choice.\n\nI highly recommend StokAmerica to anyone in need of roofing services. They are an honest, dependable, and reliable company that delivers on its promises!",
+  },
+  {
+    name: "Hanna Walker",
+    location: "Waynesboro, MS",
+    rating: 5,
+    text: "I had an excellent experience with StokAmerica roofing company. From start to finish, they were honest, reliable, and incredibly hard-working. They took the time to explain everything clearly, offered the cheapest pricing around with no surprises, and showed real pride in their workmanship. The crew arrived on time, worked efficiently, and made sure everything was cleaned up before they left.\n\nIt's not often you find a company that combines integrity with such strong work ethic. I highly recommend them to anyone in need of roofing services!",
+  },
 ];
 
 function StarRating({ count }: { count: number }) {
