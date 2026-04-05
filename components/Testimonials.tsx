@@ -31,6 +31,12 @@ const testimonials = [
     rating: 5,
     text: "Me and my sister both used StokAmerica for our recent roofing needs. The service was great! They completed the work in ONE day. I definitely recommend them for all your roofing needs.",
   },
+  {
+    name: "Sol Hummel",
+    location: "Waynesboro, MS",
+    rating: 5,
+    text: "StokAmerica was fantastic! Exceeded all my expectations at a reasonable cost. Highly recommended. Not the lowest or highest estimate I got, but they had great reviews. I had read and heard lots of horror stories about roofing jobs gone bad so I wanted a reliable company and StokAmerica did not disappoint.\n\nMy existing roof was a second layer put on over 25 years ago and it was starting to show its age. The underlying plywood was soft in many spots and there were some small leaks in the garage during heavy rainstorms.\n\nWhen Lane came by to check out the roof we had a long talk about what needed to be done and how much it would cost. The price he quoted was not the lowest bid but still reasonable and I was more concerned about workmanship than saving a few dollars. There was no hard sell and I really had a good feeling about StokAmerica. One thing that really impressed me was that Lane did not ask for any money up front even though he had to cover the cost of the materials. He trusted me to pay the entire cost when the job was done, which I did.\n\nThe crew arrived exactly on time, 7:30 AM. A crew of 6 men were able to finish the job in one day (almost 12 hours) and Lane was there supervising for almost the entire time. The first thing they did was drape a fine net around the entire house to protect everything on the ground. The cleanup was perfect — they swept the entire grounds with large magnets to pick up any stray nails.\n\nA perfect job; can't ask for more than that and I will certainly recommend StokAmerica to anyone who needs a new roof. Thank you Lane and crew for an outstanding job.",
+  },
 ];
 
 function StarRating({ count }: { count: number }) {
